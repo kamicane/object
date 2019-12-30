@@ -1,0 +1,17 @@
+{
+  "name": "@kamicane/object",
+  "version": "1.0.0",
+  "description": "object utils",
+  "main": "index.js",
+  "repository": "github:kamicane/object",
+  "author": "Valerio Proietti <kamicane@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "standard": "^14.3.1"
+  },
+  "keywords": [
+    "object",
+    "object.create",
+    "iterators"
+  ]
+}
