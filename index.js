@@ -10,6 +10,7 @@ const {
 function object (...objects) {
   const object = create(null)
   for (const obj of objects) {
+    if (!obj) continue
     defineProperties(object, getOwnPropertyDescriptors(obj))
   }
   return object
