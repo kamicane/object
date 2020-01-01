@@ -1,6 +1,6 @@
 {
   "name": "@kamicane/object",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "object utils",
   "main": "index.js",
   "repository": "github:kamicane/object",
